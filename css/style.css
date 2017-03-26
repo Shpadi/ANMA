@@ -1,0 +1,36 @@
+form{
+	width: 220px;
+	margin: auto;
+}
+
+input{
+	margin:11px 0px;
+}
+
+.bootstrap-select{
+	width: 100%;
+	margin:10px 0px;
+}
+
+
+.table{
+	font-size: 19px !important;
+}
+
+
+.btn-success{
+	width: 100px;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+
+.form-horizontal{
+	display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
